@@ -2,7 +2,7 @@
 
 def main():
     print("Hello, World!")
-    print("Master branch has been updated with new features.")
+    print("Master branch has these lines in it.")
     print("This is production-ready code!")
 
 if __name__ == "__main__":
