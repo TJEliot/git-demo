@@ -4,6 +4,7 @@ def greet_from_branch_a():
     """Feature added in branch A"""
     print("Hello from feature branch A!")
     print("Branch A adds this new line in this new function.")
+    print("This is a new test line")
 
 def main():
     print("Hello, World!")
